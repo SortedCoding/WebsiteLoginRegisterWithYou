@@ -21,11 +21,11 @@ Registration :
 ![screenshot](withyoureg.png)
 
 Login :
-![screenshot](walklog1.png)
+![screenshot](withyoulog1.png)
 
 
 Registration :
-![screenshot](walkreg1.png)
+![screenshot](withoyoureg1.png)
 
 
 
